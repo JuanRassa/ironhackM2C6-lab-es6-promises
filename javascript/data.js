@@ -9,14 +9,7 @@ const steak = [
   'enjoy',
 ];
 
-const mashedPotatoes = [
-  'boil water',
-  'tear open bag of of instant potato mix and pour into bowl',
-  'pour in water',
-  'mix',
-  'enjoy',
-  'Mashed potatoes are ready!',
-];
+const mashedPotatoes = ['boil water', 'tear open bag of of instant potato mix and pour into bowl', 'pour in water', 'mix', 'enjoy'];
 
 const brusselsSprouts = [
   'wash brussels sprouts',
